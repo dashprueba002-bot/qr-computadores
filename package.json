@@ -1,0 +1,10 @@
+{
+  "name": "control-equipos-honor",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Control de ingreso y salida de computadores en portería - HONOR Servicios de Seguridad",
+  "dependencies": {
+    "@netlify/blobs": "11.1.5"
+  }
+}
